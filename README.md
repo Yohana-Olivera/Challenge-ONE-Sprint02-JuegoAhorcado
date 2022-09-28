@@ -23,3 +23,4 @@ Este fué un proyecto muy desafiante, con el cual aprendi muchas nuevas funcione
 sencialla cada función y parte del juego. Aún estoy trabajando en la parte responsiva del proyecto, pero me alegra tener ya esta primera versión sin errores funcionales.
 
 VISTA PREVIA:
+![imagenPrevia](https://user-images.githubusercontent.com/110923373/192681806-c5063008-c726-4b4e-832b-9743fb46a631.png)
